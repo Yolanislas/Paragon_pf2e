@@ -1,0 +1,42 @@
+{
+  "id": "pf2e-yolos-paragon-class",
+  "title": "PF2e Yolo's Paragon Class",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Yolostories"
+    }
+  ],
+  "packs": [
+    {
+      "name": "pf2e-paragon-class",
+      "label": "PF2e Paragon Class",
+      "path": "packs/pf2e-paragon-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "flags": {
+    "pf2e-yolos-paragon-class": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "paragon": "Paragon",
+          "shout": "Shout"
+        },
+        "spellTraits": {
+          "signet": "Signet",
+          "warcry": "Warcry",
+          "shout": "Shout"
+        }
+      }
+    }
+  }
+}
