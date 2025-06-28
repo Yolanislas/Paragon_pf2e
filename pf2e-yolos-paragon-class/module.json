@@ -28,11 +28,10 @@
   ],
    "packFolders": [
     {
-      "name": "PF2e Shifter Class",
+      "name": "PF2e Phifter Class",
       "sorting": "m",
       "packs": [
-        "pf2e-shifter-class",
-        "shifter-macros"
+        "pf2e-paragon-class"
       ],
       "color": null,
       "folders": []
