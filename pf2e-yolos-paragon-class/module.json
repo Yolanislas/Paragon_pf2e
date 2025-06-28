@@ -26,17 +26,6 @@
       }
     },
   ],
-   "packFolders": [
-    {
-      "name": "PF2e Paragon Class",
-      "sorting": "m",
-      "packs": [
-        "pf2e-paragon-class"
-      ],
-      "color": null,
-      "folders": []
-    }
-  ],
   "flags": {
     "pf2e-yolos-paragon-class": {
       "pf2e-homebrew": {
@@ -51,5 +40,16 @@
         }
       }
     }
-  }
+  },
+     "packFolders": [
+    {
+      "name": "PF2e Paragon Class",
+      "sorting": "m",
+      "packs": [
+        "pf2e-paragon-class"
+      ],
+      "color": null,
+      "folders": []
+    }
+  ],
 }
