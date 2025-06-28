@@ -24,6 +24,18 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+  ],
+   "packFolders": [
+    {
+      "name": "PF2e Shifter Class",
+      "sorting": "m",
+      "packs": [
+        "pf2e-shifter-class",
+        "shifter-macros"
+      ],
+      "color": null,
+      "folders": []
     }
   ],
   "flags": {
